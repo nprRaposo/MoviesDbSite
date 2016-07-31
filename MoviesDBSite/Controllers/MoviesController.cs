@@ -7,6 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using MoviesDBSite.Models;
+using MoviesDBSite.DAL;
 
 namespace MoviesDBSite.Controllers
 {
